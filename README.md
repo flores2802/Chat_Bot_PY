@@ -1,2 +1,2 @@
 # Chat_Bot_PY
-ChatBot
+Criando um ChatBot com Python e utilizando o Google Colab
